@@ -1,4 +1,4 @@
-![image](https://github.com/PavithraBarathi/MACHINE-LEARNING-POWERED-GENRE-PREDICTIION-FOR-NEXT-LEVEL-BOOK-RECOMMENDATIONS/assets/96919035/47fcfc0f-378e-4bff-9d99-6dfcfacf4647)![image](https://github.com/PavithraBarathi/MACHINE-LEARNING-POWERED-GENRE-PREDICTIION-FOR-NEXT-LEVEL-BOOK-RECOMMENDATIONS/assets/96919035/14ecaff2-4c76-4d10-a230-0bb98cd528f2)# MACHINE-LEARNING-POWERED-GENRE-PREDICTIION-FOR-NEXT-LEVEL-BOOK-RECOMMENDATIONS
+# MACHINE-LEARNING-POWERED-GENRE-PREDICTIION-FOR-NEXT-LEVEL-BOOK-RECOMMENDATIONS
 Recommender systems merge popularity-based and Collaborative Filtering for book suggestions. Natural Language Processing (NLP) is vital in Book Genre Prediction, analyzing text data for genre inference. EDA explores genre patterns, while NLP aids in preprocessing, feature extraction, and classification, ensuring accurate genre prediction.
 
 # About
